@@ -2,8 +2,8 @@
 
 This repository provides the minimal code and instructions required to reproduce the main results reported in the paper:
 
-> "Title of Your Paper"  
-> (under review / accepted in XXX journal)
+> "An active learning multi-fidelity metamodel method considering arbitrary fidelity level"  
+> (under review)
 
 ## Environment
 - Python >= 3.8 
